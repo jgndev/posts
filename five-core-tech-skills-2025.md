@@ -92,9 +92,9 @@ Understanding Web Servers well unlocks several key roles in tech like Developer,
 
 ## How to Learn These Skills in Your Homelab on a Budget
 
-I recommend that you get started with free tools like Docker, Rancher Desktop, Virtual Box and similar for free.
+I recommend that you get started with free tools like Docker, Rancher Desktop, Virtual Box and similar.
 You don't need to spend any money to learn these skills. Spending on Cloud services or hardware for your homelab is
-optional and if you are getting started you don't need anything but a Virtual Machine running Ubuntu and maybe Docker.
+optional and if you are getting started you don't *need* anything but a Virtual Machine running Ubuntu and maybe Docker.
 
 Try this beginner project for example:
 
@@ -114,6 +114,6 @@ Try this beginner project for example:
 ## Conclusion
 
 Learning Linux, Networking, Containers, Python, and Web Servers in your homelab is your ticket to a thriving tech career in 2025. 
-These core skills open doors to many tech roles including Cloud, DevOps, Cybersecurity, and Development, all while letting you experiment on a budget. 
+These core skills open doors to many tech roles including Cloud, DevOps, Cybersecurity, and Development, and you can do it for free. 
 
 Ready to get started? Grab an old laptop, install Ubuntu, and try running a Docker container today. 
