@@ -9,9 +9,6 @@ Tags:
  - homelab
  - linux
  - beginner
- - kubernetes
- - devops
- - "raspberry pi"
 Published: true
 ---
 

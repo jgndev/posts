@@ -7,11 +7,7 @@ summary: Learn Linux, Networking, Containers, Python, and Web Servers to excel i
 slug: 5-core-tech-skills-2025
 tags:
   - skills
-  - linux
-  - networking
-  - containers
-  - python
-  - web servers
+  - homelab
   - beginner
 published: true
 ---
