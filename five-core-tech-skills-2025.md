@@ -6,7 +6,7 @@ Author: "Jeremy Novak"
 Summary: "Learn Linux, Networking, Containers, Python, and Web Servers to excel in any tech role"
 Slug: 5-core-tech-skills-2025
 Tags: 
- - "tech skills"
+ - skills
  - linux
  - networking
  - containers
@@ -20,7 +20,7 @@ Published: true
 
 There are five core skills that are the backbone of tech. Linux, Networking, Containers, Python and Web Servers.
 
-All of these can be learned in your homelab and doing so you'll pick up the skills that will set you up for success in 
+All of these can be learned in your homelab and doing so you'll pick up skills that will set you up for success in 
 any role you might be interested in.
 
 The best part is you can master all of these in a super simple homelab using what you probably already have.
@@ -29,47 +29,45 @@ Let’s break down why these skills are non-negotiable and how to get started fo
 ## Why These 5 Core Skills Matter
 
 You might even be asking *why these specific 5 skills* and not something else like AI, Kubernetes or that new tool that
-everyone is talking about on popular Youtube channels.
+everyone is talking about on popular YouTube channels.
 
-If you have a solid grasp on Linux, Networking, Containers, Python and Web Servers you will have the most important
+If you have a solid grasp on Linux, Networking, Containers, Python and Web Servers you will also have the critical
 fundamentals and can go confidently and easily in any direction you want. These skills compliment each other so well 
 they become a superpower when used together. 
 
-You need at least a working knowledge of all five, but I recommend learning at least three to an advanced level. 
-For example if you were a wizard with Linux, Python and Networking and competent wth Containers and Web Servers you
-are set up for success in many roles in tech and can pick the thing you are most interested in with a rock solid foundation.
-
-Having a skill gap in these five skills is going to be expensive eventually. As we'll cover below, they are everywhere
-and usually found working together in a more complex system.
+You need at least a working knowledge of all five, but I recommend learning two or three to an advanced level. 
+Which two to three skills you go more in-depth with will happen either as a result of your interest in the topic or
+what the tech roles you are interested in prioritize.
 
 
 ## 1. Linux: The Operating System That Runs the World
 
 Linux powers so much of the world from servers to cloud platforms to IoT devices. Just about every app, service, or piece of tech
-that is connected to a network that you have used or heard about is running Linux or a close cousin (Unix).
+that is connected to a network that you have used or heard about is running Linux or a close cousin like a BSD-Unix. 
 
 As we will talk about soon, Containers are another core skill you need to learn and Linux is *the* platform for that.
 
-- **Why It Matters**: Being comfortable on a Linux machine is essential. It feels great to go blazing fast on a Linux machine
-knowing exactly what is going on and what you are doing.
+- **Why It Matters**: Being comfortable on a Linux machine is essential. The ability to go blazing fast on a Linux machine
+knowing exactly what is going on and what you are doing is worth the effort.
 - **Get Started**: Install [Ubuntu](https://ubuntu.com) on an old laptop, virtual machine or whatever you have available
-and learn how to use the system for normal things. As you get comfortable start learning to configure and customize it.
+and learn how to use the system for normal things. As you get comfortable start learning to configure and manage it.
 
 ## 2. Networking: Connecting the World
 
 Networking is the tech that makes it all work. Linux and Networking go together so it makes sense to understand how all
-these servers running the world's tech connect and talk to each other.
+these servers running the world's tech connect and communicate with each other.
 
-- **Why It Matters**: A good grasp of Networking is required for most tech roles from junior roles to platform engineering wizards building clouds.
+- **Why It Matters**: A good grasp of Networking is required for most tech roles. From troubleshooting to designing elegant
+high-performance systems, skills in Networking will come up all the time.
 - **Get Started**: Use your home lab to learn how IPv4, Subnets, TCP/IP, UDP, Firewalls and DNS work. 
 
 ## 3. Containers: The Future of Software Deployment
 
 Containers are a technology that is made possible by features of the Linux kernel. We use Containers because we can share
-a fully working application that behaves the same everywhere, starts in seconds (or less) and greatly simplifies deployment.
+a fully working application that behaves the same everywhere, starts in a few seconds, and greatly simplifies deployment.
 
 - **Why It Matters**: Containers power many modern apps you probably use all time behind the scenes, possibly on a Kubernetes cluster.
-- **Get Started**: Install Docker, Podman or Rancher Desktop in your Homelab and learn to run *and* build containers.
+- **Get Started**: Install Docker Desktop or Rancher Desktop in your Homelab and learn to run *and* build containers.
 
 ## 4. Python: The Swiss Army Knife of Programming
 
@@ -77,43 +75,63 @@ Python is everywhere. Automation, Infrastructure as Code, Artificial Intelligenc
 Package Managers, Networking tools, Cybersecurity tools, and much more. It is beginner-friendly yet powerful and a great
 place to start building cool stuff.
 
-- **Why It Matters**: Automating tasks with Python scripts saves time and looks great on a resume. It’s a must for DevOps and platform engineering roles.
-- **Get Started**: Write a simple Python script in your homelab to automate a task, like backing up files or pinging a server. Try it in 1 hour with a free code editor like VS Code. Then, level up with a script to monitor your homelab’s CPU usage.
+- **Why It Matters**: Automating tasks with Python is an essential skill for many tech roles. Just about every job role can
+benefit from having Python scripting as a skill and for some roles it is a standard requirement.
+- **Get Started**: Write a simple Python script in your homelab to automate a task, like backing up files or pinging a server.
 
 ## 5. Web Servers: The Heart of the Internet
 
 Linux runs the world because it runs the world's Web Servers, and not just obvious things like websites. Many services 
-including major cloud providers are Linux, Networking, Containers, Software and Web Servers when distilled down to their core components.
+including major cloud providers are basically Linux, Networking, Containers, Software and Web Servers when distilled down 
+to their core components.
 
-Understanding Web Servers well unlocks several key roles in tech like Developer, Cloud, DevOps, Cybersecurity, Platform Engineer and more.
+Understanding Web Servers well unlocks several key roles in tech including Developer, DevOps, Cybersecurity, Cloud and more.
 
 - **Why It Matters**: Web servers are critical for network connected apps and services, and knowing how they work is a key skill.
-- **Get Started**: Install Nginx on your homelab and start learning the different things that web servers are used for in addition to hosting websites.
+- **Get Started**: Install Nginx on your homelab and start learning the different things that web servers are used for.
 
-## How to Learn These Skills in Your Homelab on a Budget
+## What if I have a Mac or Windows PC?
 
-I recommend that you get started with free tools like Docker, Rancher Desktop, Virtual Box and similar.
-You don't need to spend any money to learn these skills. Spending on Cloud services or hardware for your homelab is
-optional and if you are getting started you don't *need* anything but a Virtual Machine running Ubuntu and maybe Docker.
+You could start with a Linux Virtual Machine created with Virtual Box or install Docker Desktop or Rancher Desktop
+and start with running containers. This would cover your needs for quite a while. 
 
-Try this beginner project for example:
+macOS is based on BSD Unix (darwin), so there is a lot that you can learn from just opening your terminal and using it 
+as a Unix machine. Unix and Linux are very similar and have many of the same tools and features. Where macOS and Linux
+differ the most is package management, services and containers. This is the reason in a nutshell that macOS is preferred by 
+many Software Developers, Cloud and DevOps engineers - it is a Unix machine that can run many of the popular commercial 
+desktop applications in addition to almost all the popular open source software.
+
+Windows is a slightly different story. Windows has gotten nicer to use for engineers over the recent years but the main niches 
+are still managed enterprise desktop environment, windows-only desktop software and gaming. On Windows 11 you could run 
+WSL2 (Windows Subsystem for Linux), Rancher/Docker Desktop, Virtual Box, and Visual Studio Code and get a lot of mileage 
+out of that setup. If this is what you have access to today, then by all means start there.
+
+## You can learn all this for free or on a strict budget
+
+The critical skills, software, tools and documentation that you need to learn everything we talked about in this article
+are all free. My hope is that this article made the point that these skills are foundational and will be rocket fuel
+for your career - and you don't need to buy anything to get started and go a long ways.
+
+## Need a starting point?
+
+Try this beginner project:
 
 - Install Ubuntu
 - Run Nginx in a Docker container
 - Write a Python script to check the status of the container
-- Learn how to expose the Nginx container on your home network so you can ping it from another computer
+- Learn how to make the Nginx container reachable from another computer on your home network
 
 
 ## Tips for Learning the 5 Core Skills
 
-- **Start small**: Start with Linux and get comfortable with it. You can learn the other four in parallel with small projects since they fit together remarkably well.
-- **Failure is where the learning happens**: Embrace things not working and learn how to fix them. Whenever something takes extra effort to get working understand you are probably learning a lot more than if it just worked.
-- **Error messages are your friend**: Develop the rare skill of reading error messages and trying to understand what it is telling you. Hours of time can be saved by just reading an error message, twice if needed.
-- **Document as you go**: Keep notes on your homelab experiments in a GitHub repo to troubleshoot and as reference material for your portfolio.
+- **Start small**: Start with Linux and get comfortable with it. You can learn the other four in parallel with small projects since they fit together organically.
+- **Failure is where the learning happens**: Embrace things not working and learn how to fix them. Whenever something takes extra effort to get working understand you are probably learning a lot more than if just worked.
+- **Error messages are your friend**: Develop the discipline and skill of reading error messages and trying to understand what it is telling you. Hours of precious time can be saved by just reading an error message twice.
+- **Document as you go**: Keep notes on your homelab experiments in a GitHub repo to troubleshoot and as reference material for your future projects and your portfolio.
 
 ## Conclusion
 
-Learning Linux, Networking, Containers, Python, and Web Servers in your homelab is your ticket to a thriving tech career in 2025. 
-These core skills open doors to many tech roles including Cloud, DevOps, Cybersecurity, and Development, and you can do it for free. 
+Learning Linux, Networking, Containers, Python, and Web Servers in your homelab is your ticket to a successful tech career in 2025. 
+These core skills open doors to many tech roles including Cloud, DevOps, AI, Cybersecurity, Development and more - and it is free. 
 
 Ready to get started? Grab an old laptop, install Ubuntu, and try running a Docker container today. 
