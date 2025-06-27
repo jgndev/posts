@@ -1,18 +1,18 @@
 ---
 id: 3
 date: 2025-06-27T08:00:00Z
-title: BSD vs Linux in 2025: Understanding the Unix Family Tree
-author: Jeremy Novak
-summary: Learn the key differences between BSD and Linux operating systems and which one might be right for your projects
-slug: bsd-vs-linux-2025
+title: "BSD vs Linux: Understanding the Unix Family Tree"
+author: "Jeremy Novak"
+summary: "Learn the key differences between BSD and Linux operating systems"
+slug: bsd-vs-linux
 tags:
   - bsd
   - linux
-  - operating-systems
+  - unix
 published: true
 ---
 
-# BSD vs Linux in 2025: Understanding the Unix Family Tree
+# BSD vs Linux: Understanding the Unix Family Tree
 
 Curious about BSD but not sure how it differs from Linux?
 
