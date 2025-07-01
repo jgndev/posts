@@ -6,8 +6,6 @@ author: "Jeremy Novak"
 summary: "Feeling lost in the sea of programming languages? Here’s a simple guide to choosing your first language and why Python and JavaScript are your best bets."
 slug: what-programming-language-to-learn-first-2025
 tags:
-  - python
-  - javascript
   - beginner
   - learning
   - programming
